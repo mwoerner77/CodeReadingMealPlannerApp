@@ -54,7 +54,7 @@
             //59: 
             //
             IList<MealInformation> possibleMealsInformation = new List<MealInformation>();
-            foreach (KeyValuePair<string, IList<string>?> mealData in mealIngredients)
+            foreach (KeyValuePair<string, IList<string>?> mealData in this.mealIngredients)
             {
                 //60: 
                 //

@@ -1,5 +1,6 @@
 namespace MealPlanner.Controllers
 {
+    using MealPlanner;
     using MealPlanner.Models;
     using Microsoft.AspNetCore.Mvc;
 
